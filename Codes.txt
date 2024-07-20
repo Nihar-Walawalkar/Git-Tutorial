@@ -31,6 +31,7 @@ git checkout -f			# Restore all file back to previous commit
 git log				# show all commit
 				# press q to quit
 git log -p -3			# show 3 last commit also show changes
+git log --since=<date>		# Show commits more recent than a specific date.
 
 git diff			# compare working tree with staging area
 git diff -- staged		# compare staging area with last commit
