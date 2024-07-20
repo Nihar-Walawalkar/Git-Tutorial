@@ -18,7 +18,7 @@ git commit			# open vim editter, press i and type your commit
 
 touch abc.html			# touch command is use to create blank files
 
-git add -A			# add all file to stagind area
+git add -A			# add all file to staging area
 
 git commit -m["Second commit"]	# better way to commit without vim editor
 
