@@ -22,6 +22,8 @@ git add -A			# add all file to stagind area
 
 git commit -m["Second commit"]	# better way to commit without vim editor
 
+git restore --staged <filename>	# To unstage
+
 git checkout abc.html		# Restore selected file back to previous commit
 				 (if something wrong is updated)
 				 Very usefull command
