@@ -3,3 +3,5 @@ This is my first file. I want to push the changes to the remote repository. MAST
 mkmcklmas cm cz,c c
 
 This is from master.
+
+This is added in bugfix branch.
